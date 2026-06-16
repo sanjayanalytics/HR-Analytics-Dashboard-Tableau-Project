@@ -4,10 +4,14 @@
 
 This project presents an **HR Analytics Dashboard** developed in **Tableau** to analyze employee attrition, workforce demographics, job satisfaction, and departmental performance. The dashboard provides interactive visualizations that help HR professionals and business leaders identify workforce trends, understand attrition patterns, and make data-driven decisions to improve employee retention.
 
+---
 ## 📷 Dashboard Preview
 
-*(Add dashboard screenshot here)*
+ <p align="Center">
+   <img src="https://github.com/sanjayanalytics/HR-Analytics-Dashboard-Tableau-Project/blob/ffc69388de2272a5974261b32f502fc3d23a354e/HR%20Analytics%20Dashboard%20in%20Tableau%20Final%20image.png" width="900">
+ </p>
 
+---
 ## 🎯 Project Objectives
 
 * Monitor overall employee workforce statistics.
@@ -81,13 +85,6 @@ This dashboard enables HR teams to:
 * Improve workforce planning and talent management.
 * Monitor employee satisfaction effectively.
 * Support strategic HR decisions with data-driven insights.
-
-
-## 👨‍💻 Author
-
-**Sanjay Kumar Thakur**
-Aspiring Data Analyst | Tableau | Power BI | Excel | SQL | Python
-
 ---
 
 ⭐ If you found this project useful, feel free to star the repository and connect with me on LinkedIn.
