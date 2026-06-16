@@ -73,7 +73,6 @@ This project presents an **HR Analytics Dashboard** developed in **Tableau** to 
 * Identified departments contributing most to employee attrition.
 * Analyzed attrition trends across different age groups and genders.
 * Evaluated employee satisfaction levels by job role.
-* Examined the relationship between educational background and employee turnover.
 * Provided a comprehensive workforce overview for HR decision-making.
 
 ## 🚀 Business Value
