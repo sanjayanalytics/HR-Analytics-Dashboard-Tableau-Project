@@ -62,7 +62,7 @@ This project presents an **HR Analytics Dashboard** developed in **Tableau** to 
 
 ## 🛠️ Tools & Technologies Used
 
-* **Tableau Desktop**
+* **Tableau Public**
 * Data Cleaning & Preparation
 * Calculated Fields
 * Parameters & Filters
