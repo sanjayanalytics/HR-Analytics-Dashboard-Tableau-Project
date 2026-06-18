@@ -8,7 +8,7 @@ This project presents an **HR Analytics Dashboard** developed in **Tableau** to 
 ## 📷 Dashboard Preview
 
  <p align="Center">
-   <img src="https://github.com/sanjayanalytics/HR-Analytics-Dashboard-Tableau-Project/blob/ffc69388de2272a5974261b32f502fc3d23a354e/HR%20Analytics%20Dashboard%20in%20Tableau%20Final%20image.png" width="900">
+   <img src="" width="900">
  </p>
 
 ---
