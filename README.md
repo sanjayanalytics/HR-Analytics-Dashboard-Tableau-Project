@@ -15,6 +15,14 @@ This project presents an **HR Analytics Dashboard** developed in **Tableau** to 
 * Provide actionable insights for HR decision-making.
 
 ---
+## 🛠️ Tools & Technologies Used
+
+* **Tableau Public**
+ * Calculated Fields
+* Parameters & Filters
+* Interactive Dashboard Design
+* Data Visualization Best Practices
+
 ## 📷 Dashboard Preview
 
  <p align="Center">
@@ -60,14 +68,6 @@ This project presents an **HR Analytics Dashboard** developed in **Tableau** to 
 
 * Education-based filter for dynamic dashboard exploration
 * Interactive visualizations for detailed workforce analysis
-
-## 🛠️ Tools & Technologies Used
-
-* **Tableau Public**
- * Calculated Fields
-* Parameters & Filters
-* Interactive Dashboard Design
-* Data Visualization Best Practices
 
 ## 📊 Insights Generated
 
