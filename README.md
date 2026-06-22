@@ -5,13 +5,6 @@
 This project presents an **HR Analytics Dashboard** developed in **Tableau** to analyze employee attrition, workforce demographics, job satisfaction, and departmental performance. The dashboard provides interactive visualizations that help HR professionals and business leaders identify workforce trends, understand attrition patterns, and make data-driven decisions to improve employee retention.
 
 ---
-## 📷 Dashboard Preview
-
- <p align="Center">
-   <img src="https://github.com/sanjayanalytics/HR-Analytics-Dashboard-Tableau-Project/blob/b31b4ccd6c5f804ab44bf15b1665970460138d84/HR%20Analytics%20Dashboard%20in%20Tableau.png" width="900">
- </p>
-
----
 ## 🎯 Project Objectives
 
 * Monitor overall employee workforce statistics.
@@ -21,6 +14,14 @@ This project presents an **HR Analytics Dashboard** developed in **Tableau** to 
 * Understand the impact of education fields on employee attrition.
 * Provide actionable insights for HR decision-making.
 
+---
+## 📷 Dashboard Preview
+
+ <p align="Center">
+   <img src="https://github.com/sanjayanalytics/HR-Analytics-Dashboard-Tableau-Project/blob/b31b4ccd6c5f804ab44bf15b1665970460138d84/HR%20Analytics%20Dashboard%20in%20Tableau.png" width="900">
+ </p>
+
+---
 ## 📌 Key Performance Indicators (KPIs)
 
 * **Total Employees:** 1,470
